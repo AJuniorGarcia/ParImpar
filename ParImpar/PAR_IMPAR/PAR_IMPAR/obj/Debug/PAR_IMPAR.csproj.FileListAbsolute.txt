@@ -1,0 +1,11 @@
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\bin\Debug\PAR_IMPAR.exe.config
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\bin\Debug\PAR_IMPAR.exe
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\bin\Debug\PAR_IMPAR.pdb
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.Form1.resources
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.Properties.Resources.resources
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.exe
+C:\Users\IT\Documents\Lenguaje3\ParImpar\PAR_IMPAR\PAR_IMPAR\obj\Debug\PAR_IMPAR.pdb
